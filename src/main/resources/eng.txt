@@ -1,0 +1,937 @@
+﻿eager			chętny
+mortgage		hipoteka, wierzytelność
+securities		papiery wartościowe
+wires money		przesyłac pieniądze
+set aside		odkładać
+intermediation		pośrednictwo
+interest		odsetki
+Net interest margin 	różnica między odsetkami kredytu a odsetkami lokat
+align			równoważyć
+bonds 			papiery wartościowe
+asset			kapitał
+liabilities		zadłużenie
+refinanced		refinansowany
+embedded 		osadzony
+encountered		napotkany
+reimburse		zwracać koszty
+involve			angażować
+fruition		urzeczywistwienie
+net worth		wartość netto
+perk			dodatkowy dochód
+revenue 		dochód
+counselling 		doradztwo
+clerk			urzędnik
+enforce			egzekwować
+breache			naruszać prawo
+consent			zgoda
+conceal			ukryć
+reveal			odsłonić
+entitled		uprawniony
+substantial		znacząc
+adolescent		dorastający
+trustee			powiernik
+mutual			wzajemny, wspólny
+heir			spadkobierca
+deceased		zmarły
+waived			zniesiony
+offence			wykroczenie
+hesitate		wahać się
+condemns		potępiać
+negligence		nedbalstwo
+domestic		krajowy
+hinge			zależeć / zawias
+intermediaries	pośrednik
+revoke			odwoływać
+opaque 			nieprzejrzysty
+comply 			przestrzegać
+solvency 		wypłacalność
+disclosure 		ujawnienie
+counterfeit 	podrobiony
+suspension 		zawieszenie
+suspension 		wcześniejszy
+initiate 		inicjować
+insolvency		niewypłacalność
+blatant			krzykliwy
+apprehension 	obawa
+extent 			rozmiar, skala
+write down		zanotować
+proceedings		obrady
+govern 			kierować
+enhance 		zwiększać
+measures		środki
+pursuant 		zgodnie
+provision		zabezpieczenie
+impose			nakładać
+ordinance		rozporządzenie
+pledge			gwarantują
+stipulated 		okreslone
+derivative 		pochodne
+fiduciary 		powiernik
+custody			opieka
+receivables 	należności
+Tangible 		namacalny
+Depreciation 	dewaulacja
+excerpt 		fragment, wypis z rejestru
+-----------
+2019 FEB 20
+-----------
+period			kropka
+toggle			przełącznik
+malformed		zniekształcony
+equity capital	kapitał własny
+objective		cel
+pursue			kontynuować
+to weather 		przetrwać
+supplementary	dodatkowy
+disclosure		ujawnienie
+adequacy 		stosowność
+assess			oszacować
+equities		akcje
+mitigate 		złagodzić
+sme				small and medium-sized enterpraises
+crucial 		istotny, przełomowy
+Defaults 		niezapłacenia
+breached		naruszony
+excessively 	nadmiernie
+eligible		nadający się np kapitał
+tier			poziom
+subordinated	podporządkowany
+collocation 	rozmieszczenie  - pieniądze przy bankrutctwie
+occupational pension	emerytura pracownicza
+vested			nabyty
+commission		prowizja
+letter of credit	akredytywa
+claim 			roszczenia
+notes			uwagi
+concludes 		finalizować
+to hedge		do zabezpieczenia
+allegation 		zarzut
+predicate offence 		działania stanowiące przestępstwo
+hinder 			utrudniać
+straw man		strach na wróble
+plausible 		wiarygodny
+collateral 		równoległy
+stakes			pula
+compliance officer	urzędnik ds zgodności
+harm			szkodzić
+bribery 		przekupstwo, łapownictwo
+embezzlement	sprzeniewierzenie, defradacja
+due diligence	należyta staranność
+trail			ślad / szlak
+resent 			oburzać się
+contradiction 	sprzeczność
+breach 			wyłom
+foreseeable 	do przewidzenia
+vigilance 		czujność
+Contraventions 	naruszenie przepisów
+affiliated 		stowarzyszony
+enacted 		zarządać
+stipulate		określać
+impeccable 		niskazitelny
+thoroughly 		gruntownie
+outlined 		opisany
+underway		w toku
+enforcement 	egzekwowanie
+distinguish 	rozróżniać
+recurring 		powtarzający się
+erroneous 		błędny
+precautions		środki ostrożności
+disguise 		zamaskować
+deductible		franszyzna redukcyjna
+instalments		raty
+solvent			wypłacalny
+acquirer 		nabywca
+issuer			emitent
+beneath			poniżej
+to tilt			przechylać
+obligations		zobowiązania
+entails			pociągać za sobą
+divulge 		rozgłaszać
+discrepancies	rozbieżności
+invoices		faktury
+objection		sprzeciw
+standing order	stałe zlecenie przelew
+retail			detaliczny
+beneficiary		beneficjent / obdarzony
+to credit		przypisać
+excise 			akcyza
+Beforehand		uprzednio
+debtor			dłużnik
+exclamation point	wykrzyknik
+blows a gasket	wściec się (rozezwać uszczelkę)
+not too shabby	nie najgorzej (nędzny, nikczemny)
+PL				Procedural Language
+hyphen			myślnik -
+set in stone		sztywno ustalony
+hustle			rwetes
+
+2019-02-21
+security traded		obrót zabezpieczony
+bids			oferty
+to conclude		sfinalizować
+irrespective 		niezależnie
+precedence 		pierwszeństwo
+to rule out		wykluczyć
+refrain			wystrzegać się
+adwantageus		korzystny
+safekeeping account	rachunek oszczędnościowy
+receipt			pokwitować
+deduction		potrącenie
+T+3			transakcja musi być wykonana do 3 dni bankowych po sfinalizowaniu
+concluded		sfinalizowany
+clearing		rozliczenie
+settlement		uregulownie
+completion		realizacja
+counterparty		kontrahent
+carry out		wykonywać
+par value		wartość nominalna
+bid price		cena ofertowa
+varying			różny
+fungible		zamienny
+crude			surowy / szorstki
+Commodities 		surowce
+Wheat			pszenica
+free float		akcjonariat rozproszony
+margin			rezerwa
+no muss, no fuss	bez bałaganu, bez zamieszania
+easy peasy		bułka z masłem
+pertaining		typowy dla
+explicit		otwarty
+reveal			odsłonić
+implicit		niejawny
+2019-02-22
+land lot		działka ewidencyjna
+high-end		ekskluzywny
+distinctive		wyróżniający
+fixed-rate		stała stopa
+floating rate		płynny kurs
+hikes			podwyżki
+feasible 		wykonywalny
+Rental surety		poręczenie za wynajem
+current account		rachunek bieżący
+at sight		od razu
+overdraw		przekraczać konto, debet
+call money		pożyczka dla banku na krótki okres
+overnight money		-||-
+jointly			łącznie
+blasted 		przeklęty
+deductible		do odliczenia
+accrued			naliczony
+deduction 		odliczeniu, potrąceniu
+landlord		właściel domu czynszowego
+cowshed			obora
+groundwork		podstawa, baza
+say outright		powiedzieć wprost
+Attentive hearing	uważne słuchanie
+tough sytuation		trudna sytuacja
+Slouching 		garbienie się
+funnel			lejek
+apprenticeship		praktyka
+remarks			uwagi
+ancillary=auxiliary 	pomocniczy
+Seemingly 		pozornie		
+acquaintance		znajomy
+excerpt 		fragment, wypis z rejestru
+Comprehensive 		wszechstronny
+withholding		wstrzymanie
+withholding tax		podatek potrącany u źródła
+interim			tymczasowy
+solely			wyłącznie
+to file 		wnieść podanie
+surpluses 		nadwyżki
+exclusively 		wyłącznie
+teller			kasjer bankowy
+fraudulent		nieuczciwy
+firm grasp		gruntowne pojęcie
+overdraft 		przekroczenie kąta bankowego
+strapped for cash	spłukany z pieniędzy
+contingent 		warunkowy
+surety bonds		obligacje poręczeniowe
+lien			zastaw
+prompt			punktualny
+down payment		zaliczka
+2019-02-25
+frisky			rozbrykany
+concise			zwięzły
+approach		podejście
+appraisal		ocena
+fiduciary investments	inwestycje powiercznie
+interest-bearing	oprocentowany
+treasury bill		bon skarbowy
+principal		kapitał początkowy (bez odsetek)
+Upon maturity		po osiągnięciu dojrzałości
+merely acts		po prostu działa
+Yield to maturity	dochód w terminie do wykupu
+residual term to maturity	pozostały okres do wykupu
+incurred		poniesiona		
+standalone		samodzielny
+parenthesis		nawias
+implied			ukryty
+portfolio		teczka, aktówka
+likelihood 		prawdopodobieństwo
+ball out		wyskoczyć
+profound		głęboki, gruntowny
+to double down		podwoić
+cutover			przełączenie
+down the road		w przyszłości
+25.02.2019
+contractual relationship	stosunek umowny
+custodian		opiekun
+discretionary		uznaniowy
+domicile		miejsce sałego zamieszkania
+settlor			osoba przekazująca majątek w zarząd
+the trust		powiernictwo
+deed			tytuł posiadania
+violation		naruszenie
+----------
+26.02.2019
+----------
+look up			sprawdzać
+to oversee		nadzorować
+----------
+27.02.2019
+----------
+table is generic	tablica jest ogólna
+dismiss			odwołać, usunąć
+fancy			fantazyjny
+obsolete		przestarzały
+initially		początkowo, wstępnie
+----------
+28.02.2019
+----------
+contiguous		przyległy
+interleaved		przepleciony
+workbench		stół warsztatowy
+----------
+01.03.2019
+----------
+ad hoc			doraźnie
+obsolete		przestarzały
+----------
+04.03.2019
+----------
+mate			kolega
+expense claim		żadanie zwrotu kosztów
+consistency		regularność
+Approval 		zatwierdzenie, aprobata
+distinguished		wybitny
+per diem		dziennie
+accrual			naliczenie
+extraneous		niezwiązany
+blurry			rozmazany
+viable			wykonywalny / zdolny do życia
+tentative		niepewny / próbny
+to neglect		zaniedbywać
+to populate		zaludnić / zasiedlić
+malicious 		złośliwe
+to retrieve		popierać
+remuneration		wynagrodzenie
+diluted			rozcieńczony
+relevant		istotny
+predetermined		z góry ustalony
+middleware		oprogramowanie pośrednie
+to utilize		wykorzystać, spożytkować
+to accomplish		wykonać, zrealizować
+to ship			wysłać (zamówienie)
+to disclose		ujawnić
+to comprise		zawierać w sobie
+authoritative		miarodajny
+net assets		aktywa netto
+to pool			włączać się do wspólnego funduszu
+to contribute		wnieść wkład (np kapitał)
+retained earnings	zyski zatrzymane (equity capital)
+rendition		wykonanie
+in this regard		pod tym względem			
+to recall		przypomnieć sobie
+excess 			nadmiar, nadwyżka
+sheet 			arkusz
+persist-driven attrib	atrybuty podczas ruchu
+to persist		trwać, wytrwać
+to trigger		wywołać
+substantial 		znaczny
+precondition		warunek wstępny
+criterion		kryterium
+discouraged		zniechęcające
+to derive		czerpać
+to troubleshoot		rozwiązywać problemy
+decent			przyzwoity
+sanitized		ocenzurowany
+to tick			odfajkować na liście
+to cater		zaopatrywać
+to play hooky		wagarować
+crappy 			bzdury
+custody			depozyt
+to hook			zagiąć, uczepić
+compliance		zastosowanie / uległość
+comprehensive		wszechstronny / obszerny
+reconciliation		pojednanie / pogodzenie się
+to underpin		podeprzeć / wzmocnić
+to adhere		trzymać się czegoś / być wiernym
+shallow			płytki
+as such			jako taki
+discrete domain		dyskretna dziedzina
+comprehension		zrozumienie
+plausible		wiarygodny / przekonywujący
+mocking			kpiny / drwiny
+scheduled		zaplanowany
+interim			okres przejściowy
+reversal		zwrot / uchylenie
+greedy			chciwy / łakomy
+to offset		równoważyć / kompensować
+sweep			zamieść
+redemption		spłata / odkupienie
+custodian		dozorca / stróż
+to grab			załapać
+reley			praca zmianowa
+to reley		transmitować
+heat			wyścig eliminacyjny
+enquire			zapytać się
+authority		władza / zwierzchnictwo
+ledger			księgowość (księga)
+lock			zamek / zasuwka
+to contain		zapobiegać
+breach			naruszenie
+to recap		reasumować
+recap			powtórka
+to retrive		odzyskać
+asterisk		gwiazdka *
+dispatcher		dyspozytor	
+sentinel		strażnik / wartownik
+charm			urok / wdzięk
+so far so good		na razie w porządku
+pipe			kreska |
+ultimetly		ostatecznie / w końcu
+exclusively		wyłącznie / jedynie
+to prevail		wziąć górę / przeważyć
+to revive		wskrzeszać
+intricately		misternie
+to bounce		odbijać
+scruting		nadzór / kontrola
+far enought		nie będzie / zgoda
+disposal		sprzedaż / pozbycie się / załatwienie
+hover			wahać się
+embarked		zaokrętować się
+to deploy		wdrażać / rozstawiać
+distinction		odróżnienie / godność
+semi-advance		pół zaawansowany
+wasted			zmarnowany / schlany
+ring road		obwodnica
+dummy			atrapa / manekin / bałwan
+overall			ogólnie / ogólny
+threshold		granica / próg
+apostrophe		apostrof: ‘
+quotation mark		cudzysłów: “
+to coved		pragnąć z zazdrością
+derivation		pochodzenie, pochodność
+to omit			pomijać
+to draw back		wycofywać
+appetizer		przystawka
+prior			wcześniejszy
+tightly 		ciasno, wąsko
+to alter		zmieniać, modyfikować	
+hive			ul, rój
+to major in		specjalizować się w czymś
+open interval		przedział otwarty
+boundary		granica
+decade		dekada, dziesiątka
+commision		prowizja
+enhance		uatrakcyjnić, polepszyć
+bulk			ogrom, cielsko
+chunk			spory kawał, kęs
+throughput		wydajność, przepustowość
+acknowledgement	potwiedzenie, przyznanie się						
+to amend		modyfikować, wnieść poprawki
+reconciliation		pojednanie / pogodzenie się
+eligible			wybieralny, nadający się
+tough 			twardy, mocny, brutalny, gangster
+roll out			rozwinąć
+confidentiality		poufność
+integrity		uczciwość, nieskazitelność
+steady pace		stałe tempo
+to assume		zakładać, przyjmować
+bundle			pakiet, wiązka, paczka
+to hark			słuchać uważnie
+accurancy		precyzja, dokładność
+denial of service	odmowa dostępu do serwisu
+to trace		śledzić, tropić
+explicitly		wyraźnie, wprost, jawnie
+implicitly		domyślnie, niejawnie
+c.f.			conferatur, porównaj
+whereby			w wyniku czego
+to act as		pełnić rolę
+approach		przystępność, podejście
+prerequisites		wymogi, warunki wstępne
+foremost		główny, czołowy
+to resolve		uzgadniać, rozdzielać
+in question		o którym mowa
+thereafter		adtąd, od tego czasu
+
+to get stuck		utknąć, ugrzęść, nabić się
+concise			zwięzły, lapidarny
+to lessen		zmniejszać, redukować
+to deprecate		potępiać, dezaprobować, nie doceniać
+indentation		wcięcie, akapit
+conscience		sumienie
+to enroll		przyjmować, zapisywać się
+subsidiary		filia, dodatkowy, uboczny
+minor			nieletni
+fellow			kolega, facet, członek
+congruence		kongruencja liczb, zgodność
+venue			miejsce (spotkania)
+collateral		zastaw, kaucja, boczny, równoległy
+to assessed		otaksować, wymierzyć, oszacować
+
+
+mighty			potężny, możny, wielki, zdrowy, sakramenco,szalenie
+a trap			pułapka
+constituted 		uformowany, wyłoniony, ukonstynuowany
+most recent		najnowszy
+to pitch		rozbić, ustawić, zapadać się, cisnąć
+hand over		oddać, przekazać, dostarzyć
+to leverage		pozyskiwać, wywierać nacisk, wpływ, dźwignia
+to collaborate		wspołpracować, współtworzyć
+to persuade		przekonać, namówić, wmówić
+proficiency		sprawność, biegłość
+staffing 		obsada etatów
+compensation		odszkodowanie, wynagrodzenie
+precipitation		opad atmosferyczny, pochopność, nadmierny pośpiech
+rightmost		najbardziej wysunięty na prawo
+
+to elapse		mijać, upływać, przemijać
+1st			pierwszy
+2nd			drugi
+3rd third		trzeci
+4th			czwarty
+
+at a glance		na pierwszy rzut oka
+attendee		uczestnik
+recurring		powtarzający się
+accrued			należny, zgromadzony
+to accrue		rosnąć, zwiększać się
+staples			zszywki, klamry
+numerator		licznik
+denominator		mianownik
+seamless		bez zakłuceń, jednolicie, gładko
+bullet point		punktor*
+assertion		zapewnienie, twierdzenie
+
+a sweet treats		słodkie przysmaki
+to strip		rozebrać się
+bank holiday		dzień wolny od pracy
+indented		zamierzony
+
+to suppress		hamować, tłumić, wygaszać, osłabiać
+to breathe a sigh of relief	odetchnąć z ulgą
+relief			ulga, zapomoga, odsiecz, rzeźba terenu
+fictive			fikcyjny, wymyślony
+
+ambiguity		dwuznaczność, niejednoznaczność
+a batch			partia materiału, pakiet, wsad, wypiek
+single out		wyróżnić, wyselekcjonować
+across-the-board	ogólny, powszechny
+as per			zgodnie z, według
+
+predecessor		poprzednik
+on behalf of		w imieniu
+to append		dodać
+
+cumbersome		kłopotliwy, niezręczny
+to wrap			owijać, zawijać (np tekst)
+eclipse			zaćmienie, gasić
+
+snip			skrawek, wyciąć, przeciać, pociąć
+dormant			drzemiący, bezczynny
+denomination		określenie, wyznanie wiary
+vulnerable		wrażliwy
+
+sanity			zdrowie psychiczne, rozsądek
+agile			zręczny, zwinny, lotny 
+
+broom			miotła
+scrutinizing		kontrola, lustracja
+proprietary		własnościowy
+compromised		naruszony, zagrożony
+
+pending			oczekiwanie, oczekujący, w toku
+
+felicitation 		powinszowanie
+soulmate 		bratnia dusza	
+promptly		niezwłocznie
+to take note		stwierdzić
+
+On my way		jestem w drodze
+volatile		lotny zmienny
+
+drukowane litery	drukowane (duże) litery
+irrespective of		bez względu na
+deemed			domniemany
+
+tremendously 		ogromnie, niesamowicie
+deferred		odroczyć, wstrzymać
+sanity			zdrowie psychiczne, rozsądek
+to eradicate		wykorzenić, wyplenić, zwalczać
+single out 		wyróżnić z wielu, wybrać
+doable			możliwy do zrobienia
+in due course		we właściwym czasie
+Sole proprietorship	jednosobowa działalność gospodarcza	einzelunternehmen
+spouse			małżonka
+			opieka		Vormundschaft
+fortnightly		dwutygodniowy, co dwa tygodnie
+sneak-peek 		zajawka
+a short cut 		skrót
+junk-email		wiadomości śmieci
+liaise			nawiązywać łączność
+Dress Rehearsal 	próba generalna
+exempted		zwolnieny (z opłat)
+pledge			zastaw, gwarancja, rękojmia
+promptly 		natychmiast, punktualnie
+to anticipate		przewidywać, nastawiać się na
+grown up		dorosły
+
+par value		wartość nominalna
+less appealing		mniej atrakcyjny
+commitment		zaangażowanie, poświęcenie
+to delve		sięgać, wgłębiać się, kopać
+for the time being	obecnie, póki co
+to refine 		udoskonalić, ulepszyć
+to keep sb posted	informować na bierząco
+pull the plug		przerwać pracę
+to be fed up		mieć już dosyć
+
+retroactive		działający wstesz
+
+finds you well		mam nadzieję, że masz się dobrze
+though			chociaż
+a rule of thumb		praktyczna zasada
+thought 		pomysł, myśl
+nexus			ogniwo, sieć
+to give you a heads-up	żeby cię uprzedzić
+noise			szumy, trzaski
+attire			strój / ubiór
+every now and then 	od czasu do czasu
+
+evolves			ewaluować
+upbeat 			optymistyczny
+Overdue			zaległy
+enablement		uruchomienie, pełnomocnictwo
+redemption of credit	spłata kredytu
+to advocate		poprzeć
+zarządzanie		zarządzania, włodastwo
+insight			wgląd, rozeznanie
+in lieu of		w zamian za
+foster			sprzyjać, popierać
+Disclaimer		zrzeczenie się
+bootstrap		automatyczny, niezależny
+assumption		założenie
+to scrub		szorować, porzucać
+forfeited		porzucony
+embrace			uścisk, ujęcie
+abusive			obraźliwy, obelżywy
+shirt			koszula
+to chip in		dołożyć się, udzielać się
+coincidentally		przypadkowo
+to conform to		upodobnić się do
+to redeem		wykupiać, zbawiać
+pick up a few things	załatwić parę spraw na mieście
+vault			sklepienie, krypta, grobowiec
+There is sth of a discrepancy	zachodzi rozbieżność
+awkward			niezgrabny, krępujący
+retaliation		odwet, zemsta
+harassment		dokuczanie, niepokojenie
+fraudulent		nieuczciwy, szalbierski
+termination		wypowiedzenie
+to strive		dążyć, starać się
+to foster		sprzyjać, popierać
+to harm			szkodzi, uszkadza (szkoda, uszkodzenie)
+lewd			sprośny
+to shy away		cofać się, wzbraniać się
+to perceived		postrzegać
+likelihood		prawdopodobieństwo
+to condone		godzić się, darować, wybaczać
+with the utmost		z najwyższym, maksymalny, najdalszy
+promptly		niezwłocznie
+allegation		zarzut, twierdzenie
+to disclose		ujawniać
+alleged			domniemany, przypuszczalny
+fast-paced		w szybkim tempie
+scrutiny		kontrola, badanie, nadzór
+to disguis		maskować, tuszować, kamuflować
+to spot			wychywycić, wypatrzeć
+vendor			sprzedawca, producent, handlarz, dostawca
+to deceived		oszukać, zwodzić, wykiwać, cyganić
+to circumvent		przechytrzyć, ominąć
+substantiated		uzasadniony
+reluctance		niechęć, ociąganie się
+to tip-off		dać znak, dać cynk
+tax evasion		unikanie płacanie podatków
+to break apart		rozłożyć na części
+vulnerable		podatny na zranienie, wrażliwy
+confluence		zbieg, spływ, zgromadzenie
+venture			przedsięwzięcie, impreza
+please, help yourself	poczęstuj się
+thoughtlessness		bezmyślność
+feasible		wykonywalny
+to fall apart		lec w gruzach, rozpaść się
+head over to		udać się, kierować się do
+is a part of a bigger whole	jest częścią większej całości
+vigilant		czujny
+precaution		ostrożność, środek ostrożności
+to approach		zwrócić się do kogoś
+dedication		poświęcenie, dedykacja, ofiarność
+daft			głupota
+junk			złom, szmelc
+to truncate		obcinać
+shrink			kurczyć, ściągać, psychiatra
+commodity		towar
+scapegoat 		kozioł ofiarny
+paramount		główny, najważniejszy
+dress rehearsal		próba generalna
+precedence		pierwszeńśtwo, następstwo
+moderate		umiarowany, powściągliwy
+to bootstrap		uruchomić
+tacit agreement		milcząca zgoda
+jeopardised		narażony na niebezpieczeństwo
+versatile		wszechstronny
+placeholder		symbol zastępczy
+to branch		rozgałęziać
+deferred		odroczony
+to spool		szpula, nawijać
+stipulation		zastrzeżenie, warunek
+to divulge		ujawniać
+to envisage 		przewidywać, zakładać (karę)
+to tailgate		siedzieć na ogonie
+to dismantle		rozebrać, rozmontować
+culprit			winowajca, delikwent
+proximity 		bliskość, sąsiedztwo
+time to spare 		poświęcić czas
+to revoke		odwoływać, anulować
+twofold			podwójnie, w dwojaki sposób
+turnover		obrót, strata
+altitude 		wzniesienie, przewyższenie
+contingency		przypadkowość, ewentualność
+cumbersome		nieporęczne
+reluctant		niechętny
+peculiarity		osobliwość, niezwykłość, dziwactwo
+bias			stronniczość, uprzeddzenia
+mitigated		złagodzone, zmniejszone
+to tamper with sth	mieszać w czymć, bawić się czymś
+scarce			rzadki, ograniczony
+meant to be		być przeznaczonym
+intermission		przerwa, antrakt
+Folks 			starzy, kumple
+wrapped up		zawijany
+substantial		znaczny
+compromised		zagrożony
+ransom			okup
+padlock			kłódka
+vulnerabilities		podatności, słabe punkty
+mishandled		źle traktowowane, maltretowane
+to dispose		pozbyć się
+Eavesdropping		posłuchiwanie
+Tailgating		siedzenie na ogonie
+Impersonation		podszywanie się pod kogoś
+to brag			chwalić się, przechwalać
+lockdown		blokada, kwarantanna
+prior approval		uprzednia zgoda
+to condone		darować winę, przebaczać
+to shred		strzępić, poszatkować
+compromised		zagrożony, naruszony
+to cluster		zbić, gromadzić
+spoke			Single Point of Contact
+my bad			przepraszam, mój błąd
+to fart			pierdnąć
+commitment		zaangażowanie
+to elaborate		rozwijać, wypracować, omawiać szczegółowo
+sourly			kwaśny, nieuprzejmy
+to invalidate		unieważaniać, obalić
+tenfold			dziesięciokrotnie, dziesiękroć
+headroom		prześwit
+Volatility		zmienność, ulotnosć
+hereafter 		w dalszej części, poniżej
+Combustion		spalanie
+allegedly		rzekomo
+offbeat			nietypowy, niekowencjonalny
+premises		teren, siedziba, lokal
+On-premises software	oprogramowanie zainstalowane lokalnie na komputerze
+proprietary		własny, prawnie zastrzeżony
+dormant			drzemiący, bezczynny
+lifting the confusion	znosząć zamieszanie
+reckless		bezmyślen,zuchwałe
+to riddle		rozwiązywać zagadkę
+flattered		pogłaskany, mile połechatany
+addendum 		uzuopełnienie, dodatek
+to object to		sprzeciwić się
+kick off		rozpoczęcie
+leniency		wyrozumiałość
+down the road		w przyszłości, później
+preening		czyszczenie piórek
+fallback		ratunkowy
+Tailoring		dostosowanie
+alloted			wyznaczony, rozdzielony, asygnowany
+contention		spór, rywalizacja
+contradictory		sprzeczny
+forensic		śledczy, sądowy
+to endeavor		starać się, usiłować
+to be pretty through	całkiem dokładny
+upbeat attitude		optymistyczne nastawienie
+compassion		współczucie, miłosierdzie
+drawback		wada, mankament, niedogodność
+in a nutshell		w paru słowach, w pigułce, w skrócie
+to tamper		manipulować, fałszować
+ledger			księga główna
+deception		oszustwo, podstęp
+numb			zdrętwiały
+to hash			siekać
+to tamper		manipulować, fałszować
+blueprint		plan, strategia
+to counterfeit		podrbiać, fałszować
+to nail down		przygwoździć, określić
+cliche			frazes, szablon
+superb			wspaniały, znakomity
+to skew			znosić, odchylać, zezeować
+sentiment		uczucie, senyment
+contentious		kontrowersyjny, sporny
+bias			stronniczość, tendencyjność, błąd statystyczny
+disparaging		lekceważący pogardliwy
+abundance		obfitość, zasobność
+veracity		prawdziwość, wiarygodność
+literacy		umiejętność czytania
+to outreach		wykraczać poza, sięgać dalej niż
+cognitive		poznawczy
+to embrace		obejmować, obłapiać
+insult			zniewaga, obraza
+ambigues		dwuznaczny
+buzzword		modne hasło
+hype			szum, krzykliwa reklama, narkoman
+vague			mglisty
+multitenancy		obsługa wielu podmiotów
+daunting		onieśmielający, przytłaczający
+on premises		na terenie zakładu
+beaming 		promieniować, rozpromieniać
+erratic			niekonsekwentny, nierówny
+wager			zakład, lotto
+immense			ogromny, rozległy, niezmierny
+profoundly 		głęboko
+prescribe 		nakazać, przepisać
+tier			poziom, kondygnacja
+sluggishness		ospałość, gnuśność, lenistwo
+bloated			nadęty, opasły, rozlazły
+hamper			utrudniać, zawadzać
+latency			opóźnienie, czas oczekwiania
+resilient		odporny, wytrzymały, prężny
+breadcrumb		okruszek chleba
+solitary		samotny, odludny
+granular		ziarnisty
+to glean		zbierać pokłosie
+crawler			zwierze pełzące, lizus, padalec, zawalidroga
+From that point on	od tego momentu
+vulnerable		bezbronny, podatny na niebezpieczeństwo
+intact			nienaruszony
+constituent		część składowa, składnik, element
+premise			założenie, przesłanka
+seamless		ciągły, bezszwowy, bezproblemowy
+to spawn 		namnożyć się, złożyć ikrę
+akin			pokrewny, podobny
+candid 			szczery, niepozorowany
+hurdles			przeszkody, bieg przez płotki
+to hurdle		pokonywać, przeskoczyć
+affinity		powiniowactwo
+cognizant		świadomy
+suitors 		zalotnik, kompetytor
+overhaul		wyremontować
+benevolent		życzliwy, łaskawy, dobroczynny
+to embrace		obejmować
+to draw upon		korzystać, czerpać, nawiązywać
+to bog down 		zwalniać, ugrzęznąć
+providence		opatrzność, przeznorność
+sales leads		firma potencjanie zainteresowana produktem lub usługą
+tangible		namacalny
+holistic		całościowy
+till			kasa sklepowa
+store inventory		zapasy sklepowe
+to follow up		podchwytać, kontrolować
+tender option		środek płatniczy
+preclude		wykluczyć, uniemożliwiać
+sparingly		oszczęnie, skąpo
+to pinpoint		pokazywać z maksymalną dokładnością
+presumably		prawdopodobnie, przypuszczalnie
+compromised		zagrożone, zaatakowane, upośledzone
+upfront payment		płatność z góry
+dodgy			krętacki, podejrzany, ryzykowny
+docket			wykaz, kwitek, etykieta
+to disambiguate		ujednoznacznić, uściślić
+follow up		kontrola, wizyta kontrolna
+holistically		całościowo
+guise 			przebranie, przykrywka, maska
+shortfall		defizyt, niedobór, manko
+discretionary		uznaniowy, dyspozycyjny np budżet
+insolvent		niewypłacalność
+to abdicate		rezygnować, zrzec się, abdykować
+outage			przestuj, przerwa w dostawie prądu
+arboreal		drzewny, nadrzewny, 
+arbor			altana
+to roll-up		zwinać, zawinąć, nawinąć, rozwałkować
+upset			zakłócenie, niepokój, rozstrojenie, podenerwowany, zły, zaniepokojony
+itinerary		plan podróży, trasa, marszruta
+to offend		obrażać, urazić, gorszyć, grzeszyć
+skew			pochyły, ukośny, niesymetryczny, skrzywiony
+fan-out			obciążalność wyjściowa, rozprzestrzeniać się
+to cleanse		oczyścić
+plywood			sklejka
+wrench			klucz płaski gabelschlussel
+bolt			śruba, rygiel
+padding			wyściółka, pokrycie
+washer			podkładka, uszczelka, zmywarka
+from within		od wewnątrz, od środka
+tide			fala, przypływ, pływ, bieg
+to resist		sprawiać opór, sprzeciwiać się
+attrition		wyczerpywanie się, skrucha
+dissection		wnikliwa analiza, sekcja
+obfuscation		zaciemnianie np kodu
+drywall			płyta gipskarton
+to collate		porównać, zestawić, posegregować
+deluge			potop, zalew
+adversely		nieprzeciwnie, niekorzystnie
+informed		dojrzała, świadoma np decyzja
+mindset			sposób myślenia, mentalność, podejście
+encounter		spotkanie, pojedynek
+awkward			niezręczny, niezdarny
+to scrub		wyszorować
+outstanding		wybitny, nieuregulowany, zaległy (faktura)
+to owe money		być winnym pieniądze
+Pliers			szczypce
+throttle		dławić, dusić, przepustnica, zawór dławiący
+breakdown		awaria albo układ,rozkład coś reprezentujący
+spur			spinać, pobudzać, ostrogi
+beverage		napój, trunek
+intel			informacja wywiadowacza, tajna wiadomość
+ingenuity		pomysłowość
+to thrive		prosperować, kwitnąć
+to impair		szkodzić, przeszkadzać
+contingency		przypadkowość, ewentualność
+plethora		nadmiar, mnustwo, multum
+summit			szczyt, wierzch, korona góry
+to tarnish someone's reputation		splamić reputacje
+acquainted		obeznany
+one-off			jednorazowy
+adamant  		nieugięty, twardy, bezkompromisowy	
+distort			zniekształcać, wypaczać
+in lieu of		w zamian za
+to run the risk		ponosić rysyko
+to flag			zaznaczać, sygnalizować
+fortnightly		dwutygodniowy
+to fall prey to		paść ofiarą
+resilience		sprężystość, odporność
+to tout			zachwalać, naciągać
+genuinely		prawdziwie, autentycznie
+pastry			wyroby cukiernicze
+underpinned		podparty
+to entince		wabić, kusić
+to temp			kusić, korcić
+trade-off		kompromis, wymiana
+revamp			przeróbka, reorganizacja
+to wrap up		zawijać, pakować, kończyć, reasumować
+to harness		zaprzegnąć
+harness			uprząż, zbroja
+disservice		szkoda, krzwyda, niedźwiedzia przysługa
+siloed			wyciszony, odizolowany
