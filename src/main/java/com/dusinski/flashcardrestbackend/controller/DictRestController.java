@@ -17,20 +17,12 @@ import java.util.concurrent.atomic.AtomicLong;
 @RestController
 @RequestMapping("/api")
 public class DictRestController {
-    private static final String template = "Hello, %s!";
-    private final AtomicLong counter = new AtomicLong();
-
 
     @Autowired
     DictEntityRepository dictEntityRepository;
 
     @Autowired
     FlashCardDrawingService flashCardDrawingService;
-
-    @GetMapping("/greeting")
-    public Greeting greeting(@RequestParam(value = "name", defaultValue = "World") String name) {
-        return new Greeting(counter.incrementAndGet(), String.format(template, name));
-    }
 
     @GetMapping("/dict")
     public DictEntity dictEntity(@RequestParam(value="id",defaultValue = "1") long id) {
