@@ -29,7 +29,8 @@ public class DictReader {
                 id++;
                 String currentLine = reader.nextLine();
                 if (currentLine.contains("\t")) {
-                    dictEntityRepository.save(new DictEntity(id, currentLine.split("\t+")[0], currentLine.split("\t+")[1]));
+                    dictEntityRepository.save(new DictEntity(id, currentLine.split("\t+")[0].replaceFirst("\\s++$",""),
+                            currentLine.split("\t+")[1].replaceFirst("\\s++$","")));
                 }
 
             }

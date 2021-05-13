@@ -17,15 +17,17 @@ public class FlashCardDrawingService {
 
     private  List<DictEntity> dictEntityList = new ArrayList<>();
 
+    public FlashCardDrawingService(){
+
+    }
+
     private DictEntity randomFlashcard() {
         int random = (int) (Math.random() * this.dictEntityList.size());
         return this.dictEntityList.remove(random);
     }
 
     public FlashCardEntity drawFlashcard() {
-
         dictEntityList=dictEntityRepository.findAll();
-
         List<DictEntity> randomDictEntities = new ArrayList<>();
         List<String>guessList =  new ArrayList<>();
         for (int i = 0; i < 4; i++) {
@@ -39,6 +41,10 @@ public class FlashCardDrawingService {
         return new FlashCardEntity(randomDictEntities.get(guessId).getId(),
                 randomDictEntities.get(guessId).getPolish(),
                 guessList);
+    }
 
+    public boolean checkFlashcardAnswer(long questionID, String answer){
+        DictEntity dictEntity=dictEntityRepository.findById(questionID);
+        return answer.equals(dictEntity.getEnglish());
     }
 }

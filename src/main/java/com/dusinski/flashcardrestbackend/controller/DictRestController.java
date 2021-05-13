@@ -42,5 +42,10 @@ public class DictRestController {
         return flashCardDrawingService.drawFlashcard();
     }
 
+    @GetMapping("/answer")
+    public boolean checkAnswer(@RequestParam(value="questionId") long questionId, @RequestParam(value="flashcardAnswer") String flashcardAnswer){
+        return flashCardDrawingService.checkFlashcardAnswer(questionId, flashcardAnswer);
+    }
+
 
 }
