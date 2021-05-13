@@ -1,9 +1,8 @@
-package com.dusinski.restapp.services;
+package com.dusinski.flashcardrestbackend.services;
 
-import com.dusinski.restapp.model.DictEntity;
-import com.dusinski.restapp.repository.DictEntityRepository;
+import com.dusinski.flashcardrestbackend.model.DictEntity;
+import com.dusinski.flashcardrestbackend.repository.DictEntityRepository;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.context.annotation.Bean;
 import org.springframework.stereotype.Service;
 
 import java.io.File;

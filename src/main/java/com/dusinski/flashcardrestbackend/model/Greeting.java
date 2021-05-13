@@ -1,4 +1,4 @@
-package com.dusinski.restapp.model;
+package com.dusinski.flashcardrestbackend.model;
 
 public class Greeting {
 

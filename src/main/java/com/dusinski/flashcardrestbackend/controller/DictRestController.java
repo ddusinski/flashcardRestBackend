@@ -1,18 +1,16 @@
-package com.dusinski.restapp.controller;
+package com.dusinski.flashcardrestbackend.controller;
 
-import com.dusinski.restapp.model.DictEntity;
-import com.dusinski.restapp.model.FlashCardEntity;
-import com.dusinski.restapp.model.Greeting;
-import com.dusinski.restapp.repository.DictEntityRepository;
-import com.dusinski.restapp.services.FlashCardDrawingService;
+import com.dusinski.flashcardrestbackend.model.DictEntity;
+import com.dusinski.flashcardrestbackend.model.FlashCardEntity;
+import com.dusinski.flashcardrestbackend.model.Greeting;
+import com.dusinski.flashcardrestbackend.repository.DictEntityRepository;
+import com.dusinski.flashcardrestbackend.services.FlashCardDrawingService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 
-import java.util.ArrayList;
-import java.util.List;
 import java.util.concurrent.atomic.AtomicLong;
 
 

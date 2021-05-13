@@ -1,6 +1,6 @@
-package com.dusinski.restapp.repository;
+package com.dusinski.flashcardrestbackend.repository;
 
-import com.dusinski.restapp.model.DictEntity;
+import com.dusinski.flashcardrestbackend.model.DictEntity;
 import org.springframework.data.repository.CrudRepository;
 
 
