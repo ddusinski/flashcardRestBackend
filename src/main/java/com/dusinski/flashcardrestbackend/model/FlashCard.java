@@ -3,22 +3,19 @@ package com.dusinski.flashcardrestbackend.model;
 import java.util.ArrayList;
 import java.util.List;
 
-public class FlashCardEntity {
-    private final long id;
-
-
+public class FlashCard {
+    private final Long id;
     private final String originalWord;
+    private final List<String> guessOptions = new ArrayList<>();
 
-    private final List<String> guessOptions=new ArrayList<>();
-
-    public FlashCardEntity(long answerId,String org, List<String>  guessList) {
+    public FlashCard(Long answerId, String org, List<String> guessList) {
         originalWord = org;
-        this.id=answerId;
+        this.id = answerId;
         this.guessOptions.addAll(guessList);
 
     }
 
-    public long getId() {
+    public Long getId() {
         return id;
     }
 

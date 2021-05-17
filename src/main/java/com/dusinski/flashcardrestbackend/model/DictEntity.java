@@ -10,14 +10,15 @@ import javax.persistence.Id;
 public class DictEntity {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
-    private long id;
+    private Long id;
     private String english;
     private String polish;
+
 
     public DictEntity() {
     }
 
-    public DictEntity(long id, String english, String polish) {
+    public DictEntity(Long id,  String english, String polish) {
         this.id = id;
         this.english = english;
         this.polish = polish;
