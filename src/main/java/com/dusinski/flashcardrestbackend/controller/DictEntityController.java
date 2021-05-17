@@ -10,7 +10,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 
 @RestController
-@RequestMapping("/dict")
+@RequestMapping("/api/dict")
 public class DictEntityController {
 
     @Autowired
