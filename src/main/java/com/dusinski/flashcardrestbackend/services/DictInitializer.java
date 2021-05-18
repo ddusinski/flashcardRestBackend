@@ -10,6 +10,7 @@ import org.springframework.stereotype.Service;
 import javax.annotation.PostConstruct;
 import java.io.File;
 import java.io.IOException;
+import java.io.InputStream;
 import java.util.ArrayList;
 import java.util.Scanner;
 
@@ -27,7 +28,8 @@ public class DictInitializer {
         ArrayList<DictEntity> input = new ArrayList<>();
         Long id = 0L;
         try {
-            File inputFile = dictFile.getFile();
+//            File inputFile = dictFile.getFile();
+            InputStream inputFile = dictFile.getInputStream();
             Scanner reader = new Scanner(inputFile);
             while (reader.hasNextLine()) {
                 id++;
